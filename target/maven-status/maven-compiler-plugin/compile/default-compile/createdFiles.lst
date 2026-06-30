@@ -1,0 +1,7 @@
+model\ClubAssignmentDTO.class
+model\ClubRegistrationDTO.class
+dao\AssignmentDAO.class
+controller\AssignmentServlet.class
+controller\RegistrationServlet.class
+dao\RegistrationDAO.class
+database\DBConnection.class
